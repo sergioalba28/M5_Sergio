@@ -16,8 +16,7 @@ public class M5_Sergio {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world");
-        System.out.println("hola2");
-        System.out.println("hola3");
+       
         
     }
     
